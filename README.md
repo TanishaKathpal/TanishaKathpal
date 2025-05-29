@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I am Tanisha </h1>
 
 <h4 align="center">
-Passionate about data science and machine learning, I have a background in Computer Science Engineering and a strong focus on data-driven problem solving. I enjoy applying predictive analytics and machine learning techniques to uncover insights and build innovative solutions. Always eager to learn and collaborate on projects that push the boundaries of data science.
+Passionate about data science and machine learning, I have a background in Computer Science Engineering and a strong focus on data-driven problem solving. I enjoy applying predictive analytics and machine learning techniques to uncover insights and build innovative solutions. Always eager to learn and collaborate on projects that push the boundaries of Data science.
 </h4>
 
 ---
