@@ -6,7 +6,7 @@ Passionate about data science and machine learning, I have a background in Compu
 
 ---
 
-### 🚀 Tech Stack
+###  Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
